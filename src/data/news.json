@@ -1,0 +1,86 @@
+[
+  {
+    "headline": "EU Begins Enforcing AI Act: Chatbots Must Disclose, Deepfakes Must Be Labeled",
+    "date": "Aug 2026",
+    "source": "European Commission",
+    "topic": 1,
+    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+  },
+  {
+    "headline": "Data Centers Become a 'Sleeper Issue' in the US Midterm Elections",
+    "date": "Aug 2026",
+    "source": "CNBC",
+    "topic": 7,
+    "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html"
+  },
+  {
+    "headline": "NYC Parents Rally for a 2-Year Moratorium on AI in Public Schools",
+    "date": "Aug 2026",
+    "source": "CS Monitor",
+    "topic": 6,
+    "url": "https://www.csmonitor.com/USA/Education/2026/0807/ai-risks-schools-students"
+  },
+  {
+    "headline": "Data Breaches Surge as AI Powers Phishing and Deepfake Job Interviews",
+    "date": "Aug 2026",
+    "source": "CNBC",
+    "topic": 2,
+    "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html"
+  },
+  {
+    "headline": "Students From All 50 States Draft a National Framework for AI in Schools",
+    "date": "Aug 2026",
+    "source": "AASA / Day of AI",
+    "topic": 6,
+    "url": "https://www.aasa.org/news-media/news/2026/08/03/students-produce-national-framework-for-ai-in-america's-schools"
+  },
+  {
+    "headline": "33 States Now Regulate Political Deepfakes; 48 Cover Explicit Fakes",
+    "date": "Aug 2026",
+    "source": "Ballotpedia",
+    "topic": 3,
+    "url": "https://stackcyber.com/posts/ai-deepfake-laws"
+  },
+  {
+    "headline": "No AI Company Scores Above C+ on the Summer 2026 Safety Index",
+    "date": "Jul 2026",
+    "source": "Future of Life Inst.",
+    "topic": 0,
+    "url": "https://www.techtimes.com/articles/320959/20260719/ai-safety-grades-are-no-lab-tops-c-best-ones-are-retreating.htm"
+  },
+  {
+    "headline": "Kimi K3: First Open-Weight Model to Lead a Major Coding Leaderboard",
+    "date": "Jul 2026",
+    "source": "Moonshot AI",
+    "topic": 1,
+    "url": "https://datasciencedojo.com/blog/kimi-k3-vs-claude-fable-5/"
+  },
+  {
+    "headline": "US Export Controls Briefly Took a Frontier AI Model Offline Worldwide",
+    "date": "Jun-Jul 2026",
+    "source": "US Commerce Dept.",
+    "topic": 1,
+    "url": "https://www.morphllm.com/llm-api"
+  },
+  {
+    "headline": "IEA: Data Centers to Double Energy Use by 2030",
+    "date": "Apr 2025",
+    "source": "IEA",
+    "topic": 7,
+    "url": "https://www.iea.org/reports/energy-and-ai"
+  },
+  {
+    "headline": "Young Tech Workers See 3-Point Unemployment Spike",
+    "date": "Aug 2025",
+    "source": "Goldman Sachs",
+    "topic": 4,
+    "url": "https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-global-workforce"
+  },
+  {
+    "headline": "Stanford: Legal AI Tools Hallucinate 17-33% of the Time",
+    "date": "2025",
+    "source": "Stanford",
+    "topic": 8,
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf"
+  }
+]
