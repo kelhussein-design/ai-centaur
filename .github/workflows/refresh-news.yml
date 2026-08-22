@@ -1,0 +1,43 @@
+# The AI Centaur — scheduled news refresh
+# Runs on the 1st of every month, and any time you press the "Run workflow" button
+# (GitHub → Actions tab → "Refresh news" → Run workflow). That button is your
+# "refresh before the meeting" lever.
+
+name: Refresh news
+
+on:
+  schedule:
+    - cron: "0 11 1 * *"   # 1st of each month, 11:00 UTC (~6-7am New York)
+  workflow_dispatch: {}     # adds the manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ask Claude for fresh news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/refresh_news.py
+
+      - name: Commit the update (only if something changed)
+        run: |
+          git config user.name "centaur-refresh-bot"
+          git config user.email "actions@github.com"
+          git add src/data/news.json src/data/meta.json
+          if git diff --cached --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "Auto-refresh news ($(date -u +%Y-%m-%d))"
+            git push
+          fi
