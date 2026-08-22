@@ -1,86 +1,86 @@
 [
   {
-    "headline": "EU Begins Enforcing AI Act: Chatbots Must Disclose, Deepfakes Must Be Labeled",
+    "headline": "EU AI Act enforcement begins for high-risk and general-purpose AI systems",
     "date": "Aug 2026",
-    "source": "European Commission",
+    "source": "Kiteworks",
     "topic": 1,
-    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+    "url": "https://www.kiteworks.com/cybersecurity-risk-management/ai-regulation-2026-business-compliance-guide/"
   },
   {
-    "headline": "Data Centers Become a 'Sleeper Issue' in the US Midterm Elections",
-    "date": "Aug 2026",
-    "source": "CNBC",
+    "headline": "Gartner: Global data center electricity demand to grow 26% in 2026, driven by AI",
+    "date": "Jun 2026",
+    "source": "Gartner",
     "topic": 7,
-    "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html"
+    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026"
   },
   {
-    "headline": "NYC Parents Rally for a 2-Year Moratorium on AI in Public Schools",
-    "date": "Aug 2026",
-    "source": "CS Monitor",
-    "topic": 6,
-    "url": "https://www.csmonitor.com/USA/Education/2026/0807/ai-risks-schools-students"
-  },
-  {
-    "headline": "Data Breaches Surge as AI Powers Phishing and Deepfake Job Interviews",
-    "date": "Aug 2026",
-    "source": "CNBC",
-    "topic": 2,
-    "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html"
-  },
-  {
-    "headline": "Students From All 50 States Draft a National Framework for AI in Schools",
-    "date": "Aug 2026",
-    "source": "AASA / Day of AI",
-    "topic": 6,
-    "url": "https://www.aasa.org/news-media/news/2026/08/03/students-produce-national-framework-for-ai-in-america's-schools"
-  },
-  {
-    "headline": "33 States Now Regulate Political Deepfakes; 48 Cover Explicit Fakes",
-    "date": "Aug 2026",
-    "source": "Ballotpedia",
-    "topic": 3,
-    "url": "https://stackcyber.com/posts/ai-deepfake-laws"
-  },
-  {
-    "headline": "No AI Company Scores Above C+ on the Summer 2026 Safety Index",
-    "date": "Jul 2026",
-    "source": "Future of Life Inst.",
+    "headline": "Google DeepMind study finds AI can manipulate human beliefs at scale when prompted",
+    "date": "Mar 2026",
+    "source": "Google DeepMind",
     "topic": 0,
-    "url": "https://www.techtimes.com/articles/320959/20260719/ai-safety-grades-are-no-lab-tops-c-best-ones-are-retreating.htm"
+    "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/"
   },
   {
-    "headline": "Kimi K3: First Open-Weight Model to Lead a Major Coding Leaderboard",
-    "date": "Jul 2026",
-    "source": "Moonshot AI",
-    "topic": 1,
-    "url": "https://datasciencedojo.com/blog/kimi-k3-vs-claude-fable-5/"
-  },
-  {
-    "headline": "US Export Controls Briefly Took a Frontier AI Model Offline Worldwide",
-    "date": "Jun-Jul 2026",
-    "source": "US Commerce Dept.",
-    "topic": 1,
-    "url": "https://www.morphllm.com/llm-api"
-  },
-  {
-    "headline": "IEA: Data Centers to Double Energy Use by 2030",
-    "date": "Apr 2025",
-    "source": "IEA",
-    "topic": 7,
-    "url": "https://www.iea.org/reports/energy-and-ai"
-  },
-  {
-    "headline": "Young Tech Workers See 3-Point Unemployment Spike",
-    "date": "Aug 2025",
-    "source": "Goldman Sachs",
+    "headline": "Stanford 2026 AI Index: Entry-level software developer employment fell nearly 20% since 2024",
+    "date": "Jun 2026",
+    "source": "Stanford HAI",
     "topic": 4,
-    "url": "https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-global-workforce"
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy"
   },
   {
-    "headline": "Stanford: Legal AI Tools Hallucinate 17-33% of the Time",
-    "date": "2025",
-    "source": "Stanford",
-    "topic": 8,
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf"
+    "headline": "PwC Global AI Jobs Barometer: AI-skill roles growing 8x faster than overall job market",
+    "date": "Jun 2026",
+    "source": "PwC",
+    "topic": 4,
+    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html"
+  },
+  {
+    "headline": "AI deepfakes deployed at industrial scale in 2026 US midterm election campaigns",
+    "date": "Mar 2026",
+    "source": "U.S. News & World Report",
+    "topic": 3,
+    "url": "https://www.usnews.com/news/politics/articles/2026-03-28/ai-deepfakes-blur-reality-in-2026-us-midterm-campaigns"
+  },
+  {
+    "headline": "30 US states have now enacted election deepfake laws ahead of November midterms",
+    "date": "May 2026",
+    "source": "Biometric Update",
+    "topic": 3,
+    "url": "https://www.biometricupdate.com/202605/election-deepfake-laws-spread-across-us-ahead-of-2026-midterms"
+  },
+  {
+    "headline": "International AI Safety Report 2026: safety testing harder as models detect test environments",
+    "date": "Feb 2026",
+    "source": "Inside Global Tech",
+    "topic": 0,
+    "url": "https://www.insideglobaltech.com/2026/02/10/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/"
+  },
+  {
+    "headline": "Future of Life Institute AI Safety Index: experts say leading AI companies lack credible safety plans",
+    "date": "Jul 2026",
+    "source": "Future of Life Institute",
+    "topic": 0,
+    "url": "https://futureoflife.org/ai-safety-index-summer-2026/"
+  },
+  {
+    "headline": "AI cyberattacks up 89% in 2026; single attacker breached nine Mexican agencies using AI agents",
+    "date": "Aug 2026",
+    "source": "ExtraHop",
+    "topic": 2,
+    "url": "https://www.extrahop.com/blog/AI-cyberattacks-in-2026-6-breaches-you-need-to-know-about"
+  },
+  {
+    "headline": "FutureEd tracker: 10 US states enacted AI literacy or curriculum bills for K-12 schools in 2026",
+    "date": "Jul 2026",
+    "source": "FutureEd",
+    "topic": 6,
+    "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/"
+  },
+  {
+    "headline": "US Copyright Office holds that purely AI-generated music without human authorship cannot be copyrighted",
+    "date": "Apr 2026",
+    "source": "Gray Group Intl",
+    "topic": 5,
+    "url": "https://www.graygroupintl.com/blog/ai-generated-music-copyright-2026/"
   }
 ]
