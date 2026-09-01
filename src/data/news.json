@@ -1,86 +1,86 @@
 [
   {
-    "headline": "EU AI Act enforcement begins for high-risk and general-purpose AI systems",
-    "date": "Aug 2026",
-    "source": "Kiteworks",
-    "topic": 1,
-    "url": "https://www.kiteworks.com/cybersecurity-risk-management/ai-regulation-2026-business-compliance-guide/"
+    "headline": "International AI Safety Report 2026 flags growing gap between AI capabilities and oversight",
+    "date": "Feb 2026",
+    "source": "internationalaisafetyreport.org",
+    "topic": 0,
+    "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
   },
   {
-    "headline": "Gartner: Global data center electricity demand to grow 26% in 2026, driven by AI",
+    "headline": "EU begins enforcing AI Act rules on high-risk general-purpose models from August 2",
+    "date": "Aug 2026",
+    "source": "European Commission",
+    "topic": 1,
+    "url": "https://www.asya.ai/blog/ai-news-august-2026"
+  },
+  {
+    "headline": "Aurora ransomware operators exploit SpaceX's Cursor AI coding tool in targeted attacks",
+    "date": "Aug 2026",
+    "source": "WIU Cybersecurity Center / HackerNews",
+    "topic": 2,
+    "url": "https://www.wiu.edu/cybersecuritycenter/cybernews.php"
+  },
+  {
+    "headline": "Researchers disclose attack on Grok chatbot that exfiltrates user data via web summaries",
+    "date": "Aug 2026",
+    "source": "The Hacker News",
+    "topic": 2,
+    "url": "https://thehackernews.com/search/label/artificial%20intelligence"
+  },
+  {
+    "headline": "AI deepfakes deployed at industrial scale in 2026 US midterm campaigns, FEC divided",
+    "date": "Aug 2026",
+    "source": "Campaign Now",
+    "topic": 3,
+    "url": "https://www.campaignnow.com/blog/regulators-scramble-as-ai-deepfakes-flood-the-2026-midterms"
+  },
+  {
+    "headline": "BLS projects 33.5% growth in data scientist jobs by 2034 driven by AI adoption",
+    "date": "Aug 2026",
+    "source": "U.S. Bureau of Labor Statistics",
+    "topic": 4,
+    "url": "https://www.bls.gov/opub/ted/2026/artificial-intelligence-information-technology-and-employment-2024-34.htm"
+  },
+  {
+    "headline": "ZipRecruiter survey: AI reshapes hiring but 38% of firms shifted entry-level tasks to AI",
+    "date": "Jul 2026",
+    "source": "ZipRecruiter Research",
+    "topic": 4,
+    "url": "https://www.ziprecruiter-research.org/economic-insights-research/ai-employer-report-2026"
+  },
+  {
+    "headline": "UK scraps plan letting AI companies train on copyrighted music without permission",
+    "date": "Mar 2026",
+    "source": "Silverman Sound / UK Government",
+    "topic": 5,
+    "url": "https://www.silvermansound.com/ai-music-copyright-legal-risks-content-creators"
+  },
+  {
+    "headline": "US students from all 50 states draft 'STUDENTS FIRST Act of 2026' AI framework for schools",
+    "date": "Aug 2026",
+    "source": "AASA",
+    "topic": 6,
+    "url": "https://www.aasa.org/news-media/news/2026/08/03/students-produce-national-framework-for-ai-in-america's-schools"
+  },
+  {
+    "headline": "School districts spend millions on AI products despite research flagging risks to student thinking",
+    "date": "Aug 2026",
+    "source": "Christian Science Monitor",
+    "topic": 6,
+    "url": "https://www.csmonitor.com/USA/Education/2026/0807/ai-risks-schools-students"
+  },
+  {
+    "headline": "Gartner: Global data center electricity demand up 26% in 2026 to 565 TWh, AI servers primary driver",
     "date": "Jun 2026",
     "source": "Gartner",
     "topic": 7,
     "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026"
   },
   {
-    "headline": "Google DeepMind study finds AI can manipulate human beliefs at scale when prompted",
-    "date": "Mar 2026",
-    "source": "Google DeepMind",
-    "topic": 0,
-    "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/"
-  },
-  {
-    "headline": "Stanford 2026 AI Index: Entry-level software developer employment fell nearly 20% since 2024",
-    "date": "Jun 2026",
-    "source": "Stanford HAI",
-    "topic": 4,
-    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy"
-  },
-  {
-    "headline": "PwC Global AI Jobs Barometer: AI-skill roles growing 8x faster than overall job market",
-    "date": "Jun 2026",
-    "source": "PwC",
-    "topic": 4,
-    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html"
-  },
-  {
-    "headline": "AI deepfakes deployed at industrial scale in 2026 US midterm election campaigns",
-    "date": "Mar 2026",
-    "source": "U.S. News & World Report",
-    "topic": 3,
-    "url": "https://www.usnews.com/news/politics/articles/2026-03-28/ai-deepfakes-blur-reality-in-2026-us-midterm-campaigns"
-  },
-  {
-    "headline": "30 US states have now enacted election deepfake laws ahead of November midterms",
-    "date": "May 2026",
-    "source": "Biometric Update",
-    "topic": 3,
-    "url": "https://www.biometricupdate.com/202605/election-deepfake-laws-spread-across-us-ahead-of-2026-midterms"
-  },
-  {
-    "headline": "International AI Safety Report 2026: safety testing harder as models detect test environments",
-    "date": "Feb 2026",
-    "source": "Inside Global Tech",
-    "topic": 0,
-    "url": "https://www.insideglobaltech.com/2026/02/10/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/"
-  },
-  {
-    "headline": "Future of Life Institute AI Safety Index: experts say leading AI companies lack credible safety plans",
-    "date": "Jul 2026",
-    "source": "Future of Life Institute",
-    "topic": 0,
-    "url": "https://futureoflife.org/ai-safety-index-summer-2026/"
-  },
-  {
-    "headline": "AI cyberattacks up 89% in 2026; single attacker breached nine Mexican agencies using AI agents",
+    "headline": "New benchmarks show leading reasoning AI models exceed 10% hallucination rate on factual tasks",
     "date": "Aug 2026",
-    "source": "ExtraHop",
-    "topic": 2,
-    "url": "https://www.extrahop.com/blog/AI-cyberattacks-in-2026-6-breaches-you-need-to-know-about"
-  },
-  {
-    "headline": "FutureEd tracker: 10 US states enacted AI literacy or curriculum bills for K-12 schools in 2026",
-    "date": "Jul 2026",
-    "source": "FutureEd",
-    "topic": 6,
-    "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/"
-  },
-  {
-    "headline": "US Copyright Office holds that purely AI-generated music without human authorship cannot be copyrighted",
-    "date": "Apr 2026",
-    "source": "Gray Group Intl",
-    "topic": 5,
-    "url": "https://www.graygroupintl.com/blog/ai-generated-music-copyright-2026/"
+    "source": "SuprMind AI / Vectara",
+    "topic": 8,
+    "url": "https://suprmind.ai/hub/ai-hallucination-rates-and-benchmarks/"
   }
 ]
