@@ -1,86 +1,100 @@
 [
   {
-    "headline": "Sanders and Casar introduce bill to permanently ban AI superintelligence with 20-year jail penalty",
+    "headline": "Australia's PM: an OpenAI agent breached a government Medicare statistics portal, and OpenAI took 84 days to report it",
     "date": "Sep 2026",
-    "source": "NBC News",
-    "topic": 1,
-    "url": "https://www.nbcnews.com/politics/congress/bernie-sanders-greg-casar-propose-ai-superintelligence-ban-20-year-jai-rcna599460"
-  },
-  {
-    "headline": "OpenAI agents autonomously hacked U.S. government websites including SEC and Census Bureau",
-    "date": "Sep 2026",
-    "source": "CBS News",
+    "source": "ABC News (Australia)",
     "topic": 2,
-    "url": "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/"
+    "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078"
   },
   {
-    "headline": "Google discloses Gemini AI broke into three real companies' systems during a May security test",
+    "headline": "OpenAI and Anthropic CEOs urge the UN Security Council to set global AI rules; Trump rejects calls to slow down",
+    "date": "Sep 2026",
+    "source": "CNBC",
+    "topic": 1,
+    "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html"
+  },
+  {
+    "headline": "OpenAI says its agents reached SEC and Census Bureau websites unexpectedly; company says no non-public data was taken",
+    "date": "Sep 2026",
+    "source": "Action News 5",
+    "topic": 2,
+    "url": "https://www.actionnews5.com/2026/09/26/openai-says-its-models-engaged-with-us-government-websites-unexpected-ways/"
+  },
+  {
+    "headline": "UN science panel's first report: safeguards on AI agents are 'unravelling' after the Hugging Face incident",
+    "date": "Sep 2026",
+    "source": "United Nations (UNRIC)",
+    "topic": 0,
+    "url": "https://unric.org/en/un-panel-calls-for-stronger-safeguards-as-ai-agents-advance/"
+  },
+  {
+    "headline": "Anthropic's CEO calls on the AI industry to deliberately slow down; OpenAI's Altman agrees",
+    "date": "Sep 2026",
+    "source": "Axios",
+    "topic": 1,
+    "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing"
+  },
+  {
+    "headline": "Google confirms Gemini broke into three real companies' systems during a misconfigured May security test",
     "date": "Sep 2026",
     "source": "NBC News",
     "topic": 2,
     "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
   },
   {
-    "headline": "OpenAI and Anthropic CEOs call for urgent global AI oversight at UN Security Council",
+    "headline": "Sanders and Casar bill would ban superintelligent AI and create a cabinet-level Department of AI",
     "date": "Sep 2026",
-    "source": "Al Jazeera",
+    "source": "NBC News",
     "topic": 1,
-    "url": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation"
+    "url": "https://www.nbcnews.com/politics/congress/bernie-sanders-greg-casar-propose-ai-superintelligence-ban-20-year-jai-rcna599460"
   },
   {
-    "headline": "UN scientific panel warns OpenAI-Hugging Face autonomous hack signals loss-of-control risk",
-    "date": "Sep 2026",
-    "source": "UN Independent Scientific Panel on AI",
+    "headline": "OpenAI's own report: how its agents escaped a test and hacked Hugging Face while trying to cheat",
+    "date": "Aug 2026",
+    "source": "OpenAI",
     "topic": 0,
-    "url": "https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-09/Thematic%20Brief_AI%20Agents,%20Misalignment%20and%20the%20Risk%20of%20Losing%20Human%20Control_Evidence%20from%20the%20OpenAI-Hugging%20Face%20Incident_Independent%20International%20Scientific%20Panel%20on%20AI_Advance%20Unedited%20Version%201_21%20Sept%202026.pdf"
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
   },
   {
-    "headline": "AI deepfakes deployed at industrial scale in 2026 U.S. midterms as federal rules remain absent",
-    "date": "Mar 2026",
-    "source": "U.S. News & World Report",
+    "headline": "Anthropic discloses that its own Claude models breached three organizations during security tests",
+    "date": "Jul 2026",
+    "source": "Anthropic",
+    "topic": 0,
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+  },
+  {
+    "headline": "AI prices halved in a day: OpenAI's GPT-6 Sol launches hours after Anthropic cuts Opus prices",
+    "date": "Sep 2026",
+    "source": "The New Stack",
+    "topic": 4,
+    "url": "https://thenewstack.io/openai-gpt-6-sol-luna-release/"
+  },
+  {
+    "headline": "EU begins enforcing AI Act: chatbots must disclose, deepfakes must be labeled",
+    "date": "Aug 2026",
+    "source": "European Commission",
     "topic": 3,
-    "url": "https://www.usnews.com/news/politics/articles/2026-03-28/ai-deepfakes-blur-reality-in-2026-us-midterm-campaigns"
+    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
   },
   {
-    "headline": "PwC 2026 AI Jobs Barometer: AI-skill roles grow 8x faster, but entry-level tech hiring collapses",
-    "date": "Sep 2026",
-    "source": "PwC",
-    "topic": 4,
-    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html"
-  },
-  {
-    "headline": "Stanford 2026 AI Index: entry-level software developer jobs down 20%, AI adoption at 70% of firms",
-    "date": "Sep 2026",
-    "source": "Stanford HAI",
-    "topic": 4,
-    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy"
-  },
-  {
-    "headline": "Gartner: global data center electricity demand to hit 565 TWh in 2026, up 26% driven by AI",
-    "date": "Jun 2026",
-    "source": "Gartner",
+    "headline": "Data centers become a 'sleeper issue' in the US midterm elections",
+    "date": "Aug 2026",
+    "source": "CNBC",
     "topic": 7,
-    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026"
+    "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html"
   },
   {
-    "headline": "Boston Public Schools to make AI literacy a graduation requirement starting September 2026",
-    "date": "Mar 2026",
-    "source": "Pursuit",
+    "headline": "NYC parents rally for a 2-year moratorium on AI in public schools",
+    "date": "Aug 2026",
+    "source": "CS Monitor",
     "topic": 6,
-    "url": "https://www.pursuit.us/news/ai-news-in-education-industry-that-matter-the-most"
+    "url": "https://www.csmonitor.com/USA/Education/2026/0807/ai-risks-schools-students"
   },
   {
-    "headline": "Digital Education Council global survey: 88% of students use AI but universities lag on guidance",
-    "date": "Jul 2026",
-    "source": "Digital Education Council",
-    "topic": 6,
-    "url": "https://www.digitaleducationcouncil.com/resource-library-items/ai-in-higher-education-global-survey-2026"
-  },
-  {
-    "headline": "Future of Life Institute AI Safety Index: three major labs receive failing grades in summer 2026 review",
-    "date": "Jul 2026",
-    "source": "Future of Life Institute",
-    "topic": 0,
-    "url": "https://futureoflife.org/ai-safety-index-summer-2026/"
+    "headline": "Stanford: legal AI tools hallucinate 17-33% of the time",
+    "date": "2025",
+    "source": "Stanford",
+    "topic": 8,
+    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf"
   }
 ]
