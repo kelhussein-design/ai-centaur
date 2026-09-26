@@ -54,6 +54,15 @@ Requirements — every one of these is mandatory:
    is neither a doom feed nor a hype feed.
 7. Headlines must accurately reflect what the linked page says. If you are not sure a
    story is real, leave it out and find another.
+8. Never make a headline stronger than its source. Attribute claims ("X says...") and
+   include the other side when a company or agency disputes it (e.g. "...; company says
+   no private data was taken"). Avoid loaded verbs like "hacked" or "collapses" unless the
+   source itself establishes them.
+9. Include the month's biggest AI stories even if they cluster in one area (for example,
+   AI safety incidents or major regulation), but put no more than 4 items in any one topic.
+10. Prefer original reporting from established outlets (AP, Reuters, BBC, NYT, WSJ, CNBC,
+   NBC, CNN, The Guardian, Axios, Bloomberg, ABC) or the primary source itself. Do not use
+   SEO blogs, content farms, or sites that summarize other people's reporting.
 
 Search efficiently — you have a budget of {MAX_SEARCHES} searches. Good queries: "AI news this week",
 "AI regulation news", "AI education schools news", "AI energy data center news", "AI jobs
