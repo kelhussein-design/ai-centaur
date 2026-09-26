@@ -1,86 +1,86 @@
 [
   {
-    "headline": "International AI Safety Report 2026 flags growing gap between AI capabilities and oversight",
-    "date": "Feb 2026",
-    "source": "internationalaisafetyreport.org",
-    "topic": 0,
-    "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
-  },
-  {
-    "headline": "EU begins enforcing AI Act rules on high-risk general-purpose models from August 2",
-    "date": "Aug 2026",
-    "source": "European Commission",
+    "headline": "Sanders and Casar introduce bill to permanently ban AI superintelligence with 20-year jail penalty",
+    "date": "Sep 2026",
+    "source": "NBC News",
     "topic": 1,
-    "url": "https://www.asya.ai/blog/ai-news-august-2026"
+    "url": "https://www.nbcnews.com/politics/congress/bernie-sanders-greg-casar-propose-ai-superintelligence-ban-20-year-jai-rcna599460"
   },
   {
-    "headline": "Aurora ransomware operators exploit SpaceX's Cursor AI coding tool in targeted attacks",
-    "date": "Aug 2026",
-    "source": "WIU Cybersecurity Center / HackerNews",
+    "headline": "OpenAI agents autonomously hacked U.S. government websites including SEC and Census Bureau",
+    "date": "Sep 2026",
+    "source": "CBS News",
     "topic": 2,
-    "url": "https://www.wiu.edu/cybersecuritycenter/cybernews.php"
+    "url": "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/"
   },
   {
-    "headline": "Researchers disclose attack on Grok chatbot that exfiltrates user data via web summaries",
-    "date": "Aug 2026",
-    "source": "The Hacker News",
+    "headline": "Google discloses Gemini AI broke into three real companies' systems during a May security test",
+    "date": "Sep 2026",
+    "source": "NBC News",
     "topic": 2,
-    "url": "https://thehackernews.com/search/label/artificial%20intelligence"
+    "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
   },
   {
-    "headline": "AI deepfakes deployed at industrial scale in 2026 US midterm campaigns, FEC divided",
-    "date": "Aug 2026",
-    "source": "Campaign Now",
-    "topic": 3,
-    "url": "https://www.campaignnow.com/blog/regulators-scramble-as-ai-deepfakes-flood-the-2026-midterms"
+    "headline": "OpenAI and Anthropic CEOs call for urgent global AI oversight at UN Security Council",
+    "date": "Sep 2026",
+    "source": "Al Jazeera",
+    "topic": 1,
+    "url": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation"
   },
   {
-    "headline": "BLS projects 33.5% growth in data scientist jobs by 2034 driven by AI adoption",
-    "date": "Aug 2026",
-    "source": "U.S. Bureau of Labor Statistics",
-    "topic": 4,
-    "url": "https://www.bls.gov/opub/ted/2026/artificial-intelligence-information-technology-and-employment-2024-34.htm"
+    "headline": "UN scientific panel warns OpenAI-Hugging Face autonomous hack signals loss-of-control risk",
+    "date": "Sep 2026",
+    "source": "UN Independent Scientific Panel on AI",
+    "topic": 0,
+    "url": "https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-09/Thematic%20Brief_AI%20Agents,%20Misalignment%20and%20the%20Risk%20of%20Losing%20Human%20Control_Evidence%20from%20the%20OpenAI-Hugging%20Face%20Incident_Independent%20International%20Scientific%20Panel%20on%20AI_Advance%20Unedited%20Version%201_21%20Sept%202026.pdf"
   },
   {
-    "headline": "ZipRecruiter survey: AI reshapes hiring but 38% of firms shifted entry-level tasks to AI",
-    "date": "Jul 2026",
-    "source": "ZipRecruiter Research",
-    "topic": 4,
-    "url": "https://www.ziprecruiter-research.org/economic-insights-research/ai-employer-report-2026"
-  },
-  {
-    "headline": "UK scraps plan letting AI companies train on copyrighted music without permission",
+    "headline": "AI deepfakes deployed at industrial scale in 2026 U.S. midterms as federal rules remain absent",
     "date": "Mar 2026",
-    "source": "Silverman Sound / UK Government",
-    "topic": 5,
-    "url": "https://www.silvermansound.com/ai-music-copyright-legal-risks-content-creators"
+    "source": "U.S. News & World Report",
+    "topic": 3,
+    "url": "https://www.usnews.com/news/politics/articles/2026-03-28/ai-deepfakes-blur-reality-in-2026-us-midterm-campaigns"
   },
   {
-    "headline": "US students from all 50 states draft 'STUDENTS FIRST Act of 2026' AI framework for schools",
-    "date": "Aug 2026",
-    "source": "AASA",
-    "topic": 6,
-    "url": "https://www.aasa.org/news-media/news/2026/08/03/students-produce-national-framework-for-ai-in-america's-schools"
+    "headline": "PwC 2026 AI Jobs Barometer: AI-skill roles grow 8x faster, but entry-level tech hiring collapses",
+    "date": "Sep 2026",
+    "source": "PwC",
+    "topic": 4,
+    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html"
   },
   {
-    "headline": "School districts spend millions on AI products despite research flagging risks to student thinking",
-    "date": "Aug 2026",
-    "source": "Christian Science Monitor",
-    "topic": 6,
-    "url": "https://www.csmonitor.com/USA/Education/2026/0807/ai-risks-schools-students"
+    "headline": "Stanford 2026 AI Index: entry-level software developer jobs down 20%, AI adoption at 70% of firms",
+    "date": "Sep 2026",
+    "source": "Stanford HAI",
+    "topic": 4,
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy"
   },
   {
-    "headline": "Gartner: Global data center electricity demand up 26% in 2026 to 565 TWh, AI servers primary driver",
+    "headline": "Gartner: global data center electricity demand to hit 565 TWh in 2026, up 26% driven by AI",
     "date": "Jun 2026",
     "source": "Gartner",
     "topic": 7,
     "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026"
   },
   {
-    "headline": "New benchmarks show leading reasoning AI models exceed 10% hallucination rate on factual tasks",
-    "date": "Aug 2026",
-    "source": "SuprMind AI / Vectara",
-    "topic": 8,
-    "url": "https://suprmind.ai/hub/ai-hallucination-rates-and-benchmarks/"
+    "headline": "Boston Public Schools to make AI literacy a graduation requirement starting September 2026",
+    "date": "Mar 2026",
+    "source": "Pursuit",
+    "topic": 6,
+    "url": "https://www.pursuit.us/news/ai-news-in-education-industry-that-matter-the-most"
+  },
+  {
+    "headline": "Digital Education Council global survey: 88% of students use AI but universities lag on guidance",
+    "date": "Jul 2026",
+    "source": "Digital Education Council",
+    "topic": 6,
+    "url": "https://www.digitaleducationcouncil.com/resource-library-items/ai-in-higher-education-global-survey-2026"
+  },
+  {
+    "headline": "Future of Life Institute AI Safety Index: three major labs receive failing grades in summer 2026 review",
+    "date": "Jul 2026",
+    "source": "Future of Life Institute",
+    "topic": 0,
+    "url": "https://futureoflife.org/ai-safety-index-summer-2026/"
   }
 ]
