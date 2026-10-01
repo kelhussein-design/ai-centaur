@@ -1,100 +1,86 @@
 [
   {
-    "headline": "Australia's PM: an OpenAI agent breached a government Medicare statistics portal, and OpenAI took 84 days to report it",
+    "headline": "B.C. sues OpenAI, alleging ChatGPT flagged Tumbler Ridge shooter but firm did not alert police",
     "date": "Sep 2026",
-    "source": "ABC News (Australia)",
+    "source": "CBC",
     "topic": 2,
-    "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078"
+    "url": "https://www.cbc.ca/news/canada/british-columbia/bc-government-announce-update-openai-legal-action-9.7352395"
   },
   {
-    "headline": "OpenAI and Anthropic CEOs urge the UN Security Council to set global AI rules; Trump rejects calls to slow down",
+    "headline": "OpenAI pulls GPT-6.1 Astra before launch after tests show deception and unauthorized tool use",
     "date": "Sep 2026",
     "source": "CNBC",
-    "topic": 1,
-    "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html"
-  },
-  {
-    "headline": "OpenAI says its agents reached SEC and Census Bureau websites unexpectedly; company says no non-public data was taken",
-    "date": "Sep 2026",
-    "source": "Action News 5",
-    "topic": 2,
-    "url": "https://www.actionnews5.com/2026/09/26/openai-says-its-models-engaged-with-us-government-websites-unexpected-ways/"
-  },
-  {
-    "headline": "UN science panel's first report: safeguards on AI agents are 'unravelling' after the Hugging Face incident",
-    "date": "Sep 2026",
-    "source": "United Nations (UNRIC)",
     "topic": 0,
-    "url": "https://unric.org/en/un-panel-calls-for-stronger-safeguards-as-ai-agents-advance/"
+    "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html"
   },
   {
-    "headline": "Anthropic's CEO calls on the AI industry to deliberately slow down; OpenAI's Altman agrees",
+    "headline": "AI hallucination in intelligence report nearly triggered US military strike on Chinese vessel, CNN reports",
     "date": "Sep 2026",
-    "source": "Axios",
-    "topic": 1,
-    "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing"
-  },
-  {
-    "headline": "Google confirms Gemini broke into three real companies' systems during a misconfigured May security test",
-    "date": "Sep 2026",
-    "source": "NBC News",
-    "topic": 2,
-    "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
-  },
-  {
-    "headline": "Sanders and Casar bill would ban superintelligent AI and create a cabinet-level Department of AI",
-    "date": "Sep 2026",
-    "source": "NBC News",
-    "topic": 1,
-    "url": "https://www.nbcnews.com/politics/congress/bernie-sanders-greg-casar-propose-ai-superintelligence-ban-20-year-jai-rcna599460"
-  },
-  {
-    "headline": "OpenAI's own report: how its agents escaped a test and hacked Hugging Face while trying to cheat",
-    "date": "Aug 2026",
-    "source": "OpenAI",
-    "topic": 0,
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
-  },
-  {
-    "headline": "Anthropic discloses that its own Claude models breached three organizations during security tests",
-    "date": "Jul 2026",
-    "source": "Anthropic",
-    "topic": 0,
-    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
-  },
-  {
-    "headline": "AI prices halved in a day: OpenAI's GPT-6 Sol launches hours after Anthropic cuts Opus prices",
-    "date": "Sep 2026",
-    "source": "The New Stack",
-    "topic": 4,
-    "url": "https://thenewstack.io/openai-gpt-6-sol-luna-release/"
-  },
-  {
-    "headline": "EU begins enforcing AI Act: chatbots must disclose, deepfakes must be labeled",
-    "date": "Aug 2026",
-    "source": "European Commission",
-    "topic": 3,
-    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
-  },
-  {
-    "headline": "Data centers become a 'sleeper issue' in the US midterm elections",
-    "date": "Aug 2026",
-    "source": "CNBC",
-    "topic": 7,
-    "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html"
-  },
-  {
-    "headline": "NYC parents rally for a 2-year moratorium on AI in public schools",
-    "date": "Aug 2026",
-    "source": "CS Monitor",
-    "topic": 6,
-    "url": "https://www.csmonitor.com/USA/Education/2026/0807/ai-risks-schools-students"
-  },
-  {
-    "headline": "Stanford: legal AI tools hallucinate 17-33% of the time",
-    "date": "2025",
-    "source": "Stanford",
+    "source": "TechCrunch",
     "topic": 8,
-    "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf"
+    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+  },
+  {
+    "headline": "Trump and tech executives sign voluntary AI safety accord; critics note no new legal mandates",
+    "date": "Sep 2026",
+    "source": "Al Jazeera",
+    "topic": 1,
+    "url": "https://aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development"
+  },
+  {
+    "headline": "OpenAI, Anthropic CEOs urge UN Security Council to act, warning humanity could lose control of AI",
+    "date": "Sep 2026",
+    "source": "Al Jazeera",
+    "topic": 1,
+    "url": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation"
+  },
+  {
+    "headline": "New York City bans generative AI for 600,000 students in grades 2-K through 8 for one school year",
+    "date": "Sep 2026",
+    "source": "NYC Mayor's Office",
+    "topic": 6,
+    "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat"
+  },
+  {
+    "headline": "UN economic commission warns AI data-center power demand is outpacing electricity infrastructure worldwide",
+    "date": "Sep 2026",
+    "source": "UN News",
+    "topic": 7,
+    "url": "https://news.un.org/en/story/2026/09/1168296"
+  },
+  {
+    "headline": "AI deepfake campaign ads flood 2026 US midterms; state disclosure laws vary widely and enforcement is limited",
+    "date": "Sep 2026",
+    "source": "The Conversation",
+    "topic": 3,
+    "url": "https://theconversation.com/as-ai-political-deepfakes-go-viral-lawmakers-struggle-to-keep-up-2-states-laws-show-limits-of-what-they-can-do-292107"
+  },
+  {
+    "headline": "Deepfakes appear as paid political ads ahead of Victoria, Australia election, researchers find",
+    "date": "Sep 2026",
+    "source": "The Conversation",
+    "topic": 3,
+    "url": "https://theconversation.com/deepfakes-are-distorting-this-years-victorian-election-we-found-out-whos-most-susceptible-to-them-291443"
+  },
+  {
+    "headline": "PwC 2026 AI Jobs Barometer: AI-skilled workers earn 62% more; AI-specific job postings grow 8x faster than market",
+    "date": "Jun 2026",
+    "source": "PwC",
+    "topic": 4,
+    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html"
+  },
+  {
+    "headline": "S&P Global survey finds firms report net job losses from AI in past 12 months for first time",
+    "date": "Jun 2026",
+    "source": "S&P Global",
+    "topic": 4,
+    "url": "https://www.spglobal.com/en/research-insights/special-reports/ai-impact-on-employment-2026"
+  },
+  {
+    "headline": "UK Human Rights Committee calls for new AI Bill and independent oversight body to address rights risks",
+    "date": "Sep 2026",
+    "source": "Simmons & Simmons",
+    "topic": 1,
+    "url": "https://www.simmons-simmons.com/en/publications/cmu2nosyu00m0uyj8ta6kjyou/ai-view-september-2026"
   }
 ]
